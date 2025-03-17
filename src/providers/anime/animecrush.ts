@@ -163,6 +163,8 @@ class Animecrush extends AnimeParser {
   }
 }
 
+export default Animecrush
+
 // (async () => {
 //   const animecrush = new Animecrush();
 //   try {

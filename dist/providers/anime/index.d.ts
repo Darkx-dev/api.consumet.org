@@ -13,6 +13,7 @@ import AnimeUnity from './animeunity';
 import MonosChinos from './monoschinos';
 import Anix from './anix';
 import AnimeKai from './animekai';
+import Animecrush from './animecrush';
 declare const _default: {
     Gogoanime: typeof Gogoanime;
     NineAnime: typeof NineAnime;
@@ -29,5 +30,6 @@ declare const _default: {
     MonosChinos: typeof MonosChinos;
     Anix: typeof Anix;
     AnimeKai: typeof AnimeKai;
+    Animecrush: typeof Animecrush;
 };
 export default _default;

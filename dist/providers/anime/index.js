@@ -18,6 +18,7 @@ const animeunity_1 = __importDefault(require("./animeunity"));
 const monoschinos_1 = __importDefault(require("./monoschinos"));
 const anix_1 = __importDefault(require("./anix"));
 const animekai_1 = __importDefault(require("./animekai"));
+const animecrush_1 = __importDefault(require("./animecrush"));
 exports.default = {
     Gogoanime: gogoanime_1.default,
     NineAnime: _9anime_1.default,
@@ -34,5 +35,6 @@ exports.default = {
     MonosChinos: monoschinos_1.default,
     Anix: anix_1.default,
     AnimeKai: animekai_1.default,
+    Animecrush: animecrush_1.default
 };
 //# sourceMappingURL=index.js.map

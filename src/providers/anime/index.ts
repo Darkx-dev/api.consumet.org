@@ -13,6 +13,7 @@ import AnimeUnity from './animeunity';
 import MonosChinos from './monoschinos';
 import Anix from './anix';
 import AnimeKai from './animekai';
+import Animecrush from './animecrush'
 
 export default {
   Gogoanime,
@@ -30,4 +31,5 @@ export default {
   MonosChinos,
   Anix,
   AnimeKai,
+  Animecrush
 };
